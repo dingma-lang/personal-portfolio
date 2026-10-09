@@ -4,7 +4,7 @@ Static HTML/CSS/JavaScript portfolio for GitHub Pages. The existing design, moti
 
 ## Publish
 
-Create a repository named `technical-portfolio` in the intended GitHub account. Push this folder's `main` branch. In **Settings → Pages**, choose **Deploy from a branch**, then **main** and **/(root)**, and save. A standard GitHub Free setup uses a public repository. Use the actual URL returned by Pages as the submission link.
+Target repository: [dingma-lang/personal-portfolio](https://github.com/dingma-lang/personal-portfolio). Push this folder's `main` branch to that repository. In **Settings → Pages**, choose **Deploy from a branch**, then **main** and **/(root)**, and save. A standard GitHub Free setup uses a public repository. Use the actual URL returned by Pages as the submission link.
 
 GitHub Pages documentation: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 
