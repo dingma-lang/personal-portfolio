@@ -26,7 +26,7 @@ Google noindex documentation: https://developers.google.com/search/docs/crawling
 
 ## Before assignment submission
 
-A real smiling photo of Ding Ma is still required. The résumé, contact information including LinkedIn, and introduction covering background and interest in analytics are present. Check the published link from the intended viewer's browser before submitting it.
+The homepage includes the supplied portrait of Ding Ma, résumé access, contact information including LinkedIn, and an introduction covering background and interest in analytics. Check that your contact details and résumé are current before submitting the published link.
 
 ## Preview
 
